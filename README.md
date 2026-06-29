@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner1.png)
 
 <div align="center">
 
@@ -79,3 +79,36 @@ I'm a **Software Developer** from **Indonesia 🇮🇩** who enjoys building mod
 </div>
 
 ---
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josuawilliams/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+🌐 Portfolio & Contact
+
+<div align="center">
+
+<a href="https://josuawilliams.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+
+<a href="https://linkedin.com/in/josuawilliams"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="mailto:josuawilliams17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<a href="https://github.com/josuawilliams"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🚀 Portfolio
+
+<a href="https://josuawilliams.vercel.app/"> <img src="https://img.shields.io/badge/Visit_My_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+
+</div>
