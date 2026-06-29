@@ -19,66 +19,12 @@ I build modern web applications with clean UI, scalable backend, and maintainabl
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-```typescript
-const josua = {
-  name: "Josua Williams",
-  role: "Software Developer",
-  location: "Indonesia 🇮🇩",
+I'm a **Software Developer** from **Indonesia 🇮🇩** who enjoys building modern web applications with clean UI, scalable backend, and maintainable code.
 
-  passion: [
-    "Building scalable applications",
-    "Creating intuitive user experiences",
-    "Designing clean architecture",
-    "Learning modern technologies"
-  ],
-
-  specialties: {
-    frontend: [
-      "React",
-      "Next.js",
-      "JavaScript",
-      "TypeScript",
-      "Tailwind CSS"
-    ],
-
-    backend: [
-      "Golang",
-      "Node.js",
-      "Express.js",
-      "Laravel",
-      "Spring Boot"
-    ],
-
-    mobile: [
-      "React Native",
-      "Flutter"
-    ],
-
-    databases: [
-      "MySQL",
-      "PostgreSQL",
-      "MongoDB"
-    ]
-  },
-
-  currentlyLearning: [
-    "System Design",
-    "Microservices",
-    "Cloud Architecture",
-    "DevOps & Docker",
-    "Advanced Golang"
-  ],
-
-  lifeCycle: [
-    "☕ Coffee",
-    "💻 Code",
-    "🚀 Deploy",
-    "🔄 Repeat"
-  ],
-
-  motto: "Code. Learn. Build. Repeat."
-}
-```
+- 💻 Focused on **Frontend Engineering**, **Backend Development**, and **Clean Architecture**
+- 🚀 Currently learning **Golang**, **Docker**, **Laravel**, **Spring Boot**, and **System Design**
+- 🛠️ Working with **React**, **Next.js**, **Node.js**, **Express.js**, **MySQL**, **PostgreSQL**, and **MongoDB**
+- 📱 Also exploring **React Native**, **Flutter**, and mobile app development
+- ⚡ Motto: **Code. Learn. Build. Repeat.**
