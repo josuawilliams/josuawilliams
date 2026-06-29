@@ -91,7 +91,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/josuawilliams/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
