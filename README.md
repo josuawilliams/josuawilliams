@@ -1,4 +1,3 @@
-```md
 ![Banner](banner1.png)
 
 <div align="center">
@@ -144,4 +143,3 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 <img src="https://user-images.githubusercontent.com/74038190/212284126-77d4f4b2-2c41-4f50-b2f8-f7fcbcb5c4f5.gif" width="900" />
 
 </div>
-```
