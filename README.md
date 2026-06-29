@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Josua+Williams;Fullstack+Developer;React+•+Next.js+•+Golang;Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Josua+Williams;Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Golang;Code.+Learn.+Build.+Repeat." />
 
 ### Software Engineer from Indonesia 🇮🇩
 
@@ -14,16 +14,12 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 💻 Focused on **Frontend Engineering**, **Backend Development**, and **Clean Architecture**
 - 🚀 Currently learning **Golang**, **Docker**, **Laravel**, **Spring Boot**, and **System Design**
-- ⚛️ Working with **React**, **Next.js**, **Node.js**, **Express.js**
+- ⚛️ Working with **React**, **Next.js**, **Node.js**, and **Express.js**
 - 🗄️ Experienced with **MySQL**, **PostgreSQL**, and **MongoDB**
-- 📱 Exploring **React Native** and **Flutter**
+- 📱 Exploring **React Native**, **Flutter**, and mobile app development
 - ⚡ Motto: **Code. Learn. Build. Repeat.**
-
-<br clear="right"/>
 
 ---
 
@@ -32,42 +28,32 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 ### ⚛️ Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### 🔥 Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel,spring" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel,spring" />
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ⚙️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
 ### 📱 Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josuawilliams&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
@@ -114,23 +100,14 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 ## 💻 Favorite Technologies
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 </p>
 
 ---
@@ -140,19 +117,19 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 <div align="center">
 
 <a href="https://josuawilliams.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/josuawilliams">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:josuawilliams17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/josuawilliams">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -161,7 +138,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+Profile!;Software+Developer+|+Fullstack+Engineer;Always+learning+new+technologies;Code.+Learn.+Build.+Repeat.;Let's+build+something+awesome+together+🚀" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E3A8A&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=38BDF8&fontSize=35&animation=twinkling" />
 
 </div>
 
