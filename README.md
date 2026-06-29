@@ -1,14 +1,10 @@
-<div align="center">
+![Banner](banner1.png)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00ADD8,100:1E293B&text=Josua%20Williams&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Josua+Williams;Fullstack+Developer;React+•+Next.js+•+Golang;Code.+Learn.+Build.+Repeat." />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=josuawilliams&color=0e75b6&style=for-the-badge)
-
-### 🚀 Software Engineer from Indonesia 🇮🇩
+### Software Engineer from Indonesia 🇮🇩
 
 Building modern web applications with clean UI, scalable backend, and maintainable code.
 
