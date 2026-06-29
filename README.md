@@ -1,10 +1,14 @@
-![Banner](banner1.png)
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00ADD8,100:1E293B&text=Josua%20Williams&fontColor=ffffff&fontSize=60&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Josua+Williams;Fullstack+Developer;React+•+Next.js+•+Golang;Code.+Learn.+Build.+Repeat." />
 
-### Software Engineer from Indonesia 🇮🇩
+<br>
+
+![](https://komarev.com/ghpvc/?username=josuawilliams&color=0e75b6&style=for-the-badge)
+
+### 🚀 Software Engineer from Indonesia 🇮🇩
 
 Building modern web applications with clean UI, scalable backend, and maintainable code.
 
@@ -14,12 +18,16 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 ## 👨‍💻 About Me
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 💻 Focused on **Frontend Engineering**, **Backend Development**, and **Clean Architecture**
 - 🚀 Currently learning **Golang**, **Docker**, **Laravel**, **Spring Boot**, and **System Design**
 - ⚛️ Working with **React**, **Next.js**, **Node.js**, **Express.js**
 - 🗄️ Experienced with **MySQL**, **PostgreSQL**, and **MongoDB**
 - 📱 Exploring **React Native** and **Flutter**
 - ⚡ Motto: **Code. Learn. Build. Repeat.**
+
+<br clear="right"/>
 
 ---
 
@@ -57,13 +65,23 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=josuawilliams&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuawilliams17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams17&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -71,7 +89,17 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josuawilliams17&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josuawilliams&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josuawilliams&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -81,9 +109,33 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/josuawilliams17/josuawilliams17/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/josuawilliams/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+---
+
+## 💻 Favorite Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+</p>
 
 ---
 
@@ -103,7 +155,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/josuawilliams17">
+<a href="https://github.com/josuawilliams">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
