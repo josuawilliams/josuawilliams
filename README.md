@@ -59,11 +59,17 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuawilliams&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuawilliams&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuawilliams&theme=tokyonight" />
 
 </div>
 
