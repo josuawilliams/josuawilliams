@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Banner](banner.png)
 
 <div align="center">
@@ -28,3 +26,34 @@ I'm a **Software Developer** from **Indonesia 🇮🇩** who enjoys building mod
 - 🛠️ Working with **React**, **Next.js**, **Node.js**, **Express.js**, **MySQL**, **PostgreSQL**, and **MongoDB**
 - 📱 Also exploring **React Native**, **Flutter**, and mobile app development
 - ⚡ Motto: **Code. Learn. Build. Repeat.**
+
+
+## ⚛️ Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+## 🔥 Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel,spring" />
+</p>
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+## ⚙️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+## 📱 Mobile
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
