@@ -1,3 +1,4 @@
+```md
 ![Banner](banner1.png)
 
 <div align="center">
@@ -61,9 +62,9 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -71,7 +72,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=josuawilliams&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=josuawilliams&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,7 +92,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/josuawilliams/josuawilliams/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -138,12 +139,9 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0F172A,100:1E3A8A&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=38BDF8&fontSize=35&animation=twinkling" />
+<h3>🚀 Thanks for visiting my GitHub Profile 🚀</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d4f4b2-2c41-4f50-b2f8-f7fcbcb5c4f5.gif" width="900" />
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1E1B4B&height=150&section=footer" />
-
-</div>
+```
