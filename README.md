@@ -63,7 +63,7 @@ Building modern web applications with clean UI, scalable backend, and maintainab
   
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&exclude_repo=nama_repo_ml" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&exclude_repo=Clasification_Picture" />
 
 </div>
 
