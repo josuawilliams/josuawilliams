@@ -57,3 +57,25 @@ I'm a **Software Developer** from **Indonesia 🇮🇩** who enjoys building mod
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuawilliams&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuawilliams&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=josuawilliams&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
