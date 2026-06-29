@@ -144,6 +144,12 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 <div align="center">
 
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=josuawilliams&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" />
+
+<br><br>
+
 <h3>🚀 Thanks for visiting my GitHub Profile 🚀</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-77d4f4b2-2c41-4f50-b2f8-f7fcbcb5c4f5.gif" width="900" />
