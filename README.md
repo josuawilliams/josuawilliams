@@ -59,8 +59,6 @@ Building modern web applications with clean UI, scalable backend, and maintainab
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuawilliams&theme=tokyonight" />
